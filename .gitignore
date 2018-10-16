@@ -1,0 +1,17 @@
+*.iml
+*.ipr
+*.iws
+target/
+.idea/
+.classpath
+.project
+.settings/
+build/
+.gradle/
+cucumber-html-reports/
+ cucumber-html-reports/
+gradle/
+gradlew
+gradlew.bat
+.DS_Store
+/bin/
